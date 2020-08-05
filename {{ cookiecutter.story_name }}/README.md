@@ -1,0 +1,2 @@
+{{ cookiecutter.director }} decided there needed to be an increase in {{ cookiecutter.team_name }} team's {{ cookiecutter.corporate_buzzword }}.  The incentive {{ cookiecutter.director }} decided on was for each {{ cookiecutter.tech_jargon }} produced there would be a {{ cookiecutter.reward }} given to each person on {{ cookiecutter.team_name }}, but for each day behind schedule they would be forced to {{ cookiecutter.punishment }} until somebody on the team passes out.
+ 
